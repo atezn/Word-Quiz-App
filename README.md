@@ -1,5 +1,5 @@
 # WORD QUIZ APP
-    #### <a href="https://youtu.be/rTMc2Tuew8Q">Video Demo</a>
+    #### #### Video Demo:  https://youtu.be/rTMc2Tuew8Q
     #### Description: This project is an example of a really simple word quiz app made with Python-PyQt5. The main purpose of the app is to help users expand their vocabulary in a desired language. The default version is set to translate from English to Turkish, but you can manually change the word set to fit your learning goals.
 
 ## Features:
