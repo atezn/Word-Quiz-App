@@ -6,7 +6,7 @@
 
    * Quiz Mode: The app generates random words from a predefined word list, presenting multiple-choice questions.  Users select the correct translation or choose the "I don't know" option. After each answer, the correct translation is displayed.
    
-   **Streak System: Tracks the number of consecutive correct answers to encourage progress.
+   * Streak System: Tracks the number of consecutive correct answers to encourage progress.
    
    * Review Mode: Incorrectly answered words are stored in a review list, allowing users to focus on problem areas.
    
